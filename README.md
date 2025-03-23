@@ -10,7 +10,7 @@ I'm Caio, a Software Engineer Student and tecnology enthusiastic. Currently deve
 
 ## Tech and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,python,js,ts,nodejs,react,nextjs,html,css,tailwind,postman,docker,postgres,mysql,mongo,ubuntu&perline=13)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,js,ts,nodejs,react,nextjs,html,css,tailwind,postman,docker,maven,postgres,mysql,mongo,ubuntu&perline=13)](https://skillicons.dev)
 
 
 
